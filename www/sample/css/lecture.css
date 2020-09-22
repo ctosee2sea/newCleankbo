@@ -1,0 +1,92 @@
+#lecture1{
+	width: 100%;
+	height: 570px;
+	background-image: url("../img/classbg_01.jpg");
+	background-position-x: center;
+	background-repeat: no-repeat;
+}
+#lecture2{
+	width: 100%;
+	height: 570px;
+	background-image: url("../img/classbg_02.jpg");
+	background-position-x: center;
+	background-repeat: no-repeat;
+}
+.inner_lecture{
+	width: 1050px;
+	margin: 0 auto;
+	color: #ffffff;
+	text-align: center;
+	letter-spacing: 0px;
+}
+.inner_lecture .inner_btn{
+	width: 404px;
+	height: 70px;
+	margin: 0 auto;
+}
+#lecture1 .inner_lecture .inner_btn > .item{
+	width: 200px;
+	height: 100%;
+	border: 1px solid #ffffff;
+	float: left;
+	line-height: 70px;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+#lecture2 .inner_lecture{
+	height: 450px;
+	position: relative;
+}
+#lecture2 .inner_lecture .video_area{
+	width: 32%;
+	height: 310px;
+	float: left;
+	background-color: transparent;
+}
+#lecture2 .inner_lecture .video_space{
+	width: 2%;
+	float: left;
+	height: 310px;
+	background-color: transparent;
+}
+#lecture2 .inner_lecture .video_area .video_item_img{
+	margin: 0 auto;
+	width: 330px;
+	height: 210px;
+	background-color: #000000;
+}
+#lecture2 .inner_lecture .video_area .video_item_title{
+	margin: 0 auto;
+	width: 330px;
+	height: 100px;
+	background-color: #ffffff;
+	text-align: left;
+	position: relative;
+}
+#lecture2 .inner_lecture .video_area .video_item_title span{
+	font-size: 17px;
+	color: #333333;
+	padding-top: 28px;
+	padding-right: 27px;
+	padding-left: 27px;
+	position: absolute;
+	line-height: 23px;
+}
+#lecture2 .inner_lecture .more_btn{
+	width: 1050px;
+	height: 80px;
+	margin-top: 60px;
+	clear: both;
+	background-color: rgba(0, 0, 0, 0.5);
+	position: absolute;
+	bottom: 0;
+}
+#lecture2 .inner_lecture .more_btn img{padding: 32px 0 0 0;}
+.color_on{background-color: #ffffff;color: #00489d;}
+.color_off{background-color: ;color: #ffffff;}
+.line_83{line-height: 83px;height: 83px;}
+.line_41{line-height: 41px;height: 83px;}
+.line_no{line-height: 22px;height: 63px;padding-top: 20px;}
+.border_1px{height: 1px;background-color: #e4e4e4;width: 100%;}
+.border_6px{height: 6px;background-color: #e4e4e4;width: 1050px;margin: 0 auto;}

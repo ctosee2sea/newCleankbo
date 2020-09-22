@@ -1,0 +1,10 @@
+#center_intro{
+	width: 100%;
+	min-width: 1050px;
+	margin: 0 auto;
+}
+#center_intro .md_img {
+	 margin: 0 auto;
+	 text-align: center;
+	 background-position-x: center;
+}

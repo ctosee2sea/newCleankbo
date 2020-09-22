@@ -1,0 +1,75 @@
+			/*
+			메인 컨텐츠 CSS
+			*/
+			#mid-area-1{
+				width: 100%;
+				max-width: 1780px;
+				min-width: 1050px;
+				margin: 0 auto;
+				height: 650px;
+				background-image: url('../img/slide_banner01.jpg');
+				background-position: center;
+				position: relative;
+			}
+			#mid-area-2{
+				width: 100%;
+				max-width: 1780px;
+				min-width: 1050px;
+				margin: 0 auto;
+				height: 460px;
+				background-color: #FFF;
+				text-align: center;
+				position: relative;
+			}
+			#mid-area-2 .mid-menu{
+				width: 1003px;
+				margin: 0 auto;
+				height: 200px;
+			}
+			#mid-area-3{
+				width: 100%;
+				max-width: 1780px;
+				min-width: 1050px;
+				margin: 0 auto;
+				height: 640px;
+				background-color: #22282f;
+				position: relative;
+			}
+			#mid-area-3 .mid-menu{
+				clear: left;
+				width: 1052px;
+				min-width: 1050px;
+				height: 378px;
+				margin: 0 auto;
+			}
+			#mid-area-3 .webtoon_area{
+				width: 263px;
+				float: right;
+			}
+			#mid-area-4{
+				width: 100%;
+				max-width: 1780px;
+				min-width: 1050px;
+				margin: 0 auto;
+				height: 510px;
+				background-color: #00489d;
+				position: relative;
+			}
+			#mid-area-4 .mid-menu{
+				width: 1050px;
+				height: 210px;
+				margin: 0 auto;
+			}
+			#mid-area-4 .mid-menu img{
+				width: 100%;
+			}
+
+
+			#submenu_01{background-image: url('../img/submenu_01.png');}
+			#submenu_02{background-image: url('../img/submenu_02.png');}
+			#submenu_03{background-image: url('../img/submenu_03.png');}
+			#submenu_04{background-image: url('../img/submenu_04.png');}
+			#submenu_01:hover{background-image: url('../img/submenu_01_on.png');}
+			#submenu_02:hover{background-image: url('../img/submenu_02_on.png');}
+			#submenu_03:hover{background-image: url('../img/submenu_03_on.png');}
+			#submenu_04:hover{background-image: url('../img/submenu_04_on.png');}
